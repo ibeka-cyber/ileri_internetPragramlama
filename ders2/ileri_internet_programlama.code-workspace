@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "firststore",
+			"path": "firststore"
+		},
+		{
+			"name": "internetProgramlama",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "internetProgramlama"
+	}
+}
